@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               fd.py
-tagline:             from stuff import faisal
+tagline:             ">>> from stuff import faisal"
 url:
 paginate:            1
 baseurl:             ""
@@ -33,5 +33,6 @@ gems:
 
 
 pages_list:
-  Publications: '/publications'
   About: '/about'
+  Data-Barista: '/data-barista'
+  Publications: '/publications'
