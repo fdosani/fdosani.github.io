@@ -8,4 +8,4 @@ I'm a Data Scientist @ [Capital One](http://www.capitalone.ca). I thoroughly enj
 We are redefining what it means to be a bank and doing it in style! We get to play around with the latest technologies, tools, and methodologies. I'm just happy I can be passionate about what it is I get to do day in and day out.
 
 ### Contact
-If you'd like to get in touch with me feel free to ping me at: faisal (dot) dosani (at) gmail.com
+If you'd like to get in touch with me feel free to ping me at: `faisal (dot) dosani (at) gmail.com`

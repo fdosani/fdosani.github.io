@@ -16,13 +16,13 @@ few years. Long live Anaconda!
 #### SQL
 Every data-barista knows SQL right?
 
-```
+{% highlight sql %}
 select *
 from coffee_shop
 where
 shop_type <> 'Starbucks'
 and drink_type = 'Latte';
-```
+{% endhighlight %}
 
 #### Other favs
 * Hadoop / Hive / MapReduce
