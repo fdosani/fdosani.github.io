@@ -36,4 +36,5 @@ gems:
 pages_list:
   About: '/about'
   Data-Barista: '/data-barista'
+  Resume: '/resume'
   Publications: '/publications'
