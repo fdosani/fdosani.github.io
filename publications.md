@@ -3,6 +3,12 @@ layout: page
 title: Publications
 ---
 
+#### Open source projects
+
+* [locopy](https://github.com/capitalone/Data-Load-and-Copy-using-Python): A nice little package to help with loading / unloading data from Amazon Redshift. I'm currently working on adding support for Snowflake and most likely plain old Postgres after.
+
+* [datacompy](https://github.com/capitalone/datacompy): A neat little package to give a readable output of compared Pandas and Spark dataframes.
+
 #### Personal White Paper
 * [Nearest Neighbor Methodology using PROC DISTANCE](/public/wp_neighbors.pdf)
 

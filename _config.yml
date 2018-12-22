@@ -18,7 +18,7 @@ sass:
 # About/contact
 author:
   name:              faisal dosani
-  url:               https://www.instagram.com/robotoprime/
+  url:               https://www.github.com/fdosani
   email:             faisal (dot) dosani (at) gmail.com
 
 # Custom vars
@@ -27,7 +27,7 @@ github:
   repo:              https://github.com/poole/poole
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-mentions
