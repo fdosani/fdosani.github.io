@@ -35,6 +35,6 @@ plugins:
 
 pages_list:
   About: '/about'
-  Data-Barista: '/data-barista'
+  Data/SWE: '/data'
   Resume: '/resume'
   Publications: '/publications'
