@@ -16,3 +16,17 @@ In `_sass/_masterhead.scss`:
   border-bottom: 1px solid #FFC964;
 }
 ```
+
+
+### Setup instructions
+
+Simple setup based on the instructions: https://jekyllrb.com/docs/
+
+Didn't bother to install `bundler` since I'm not really using Ruby Gems for
+various projects (just this one)
+
+Serve up using:
+
+```bash
+jekyll serve
+```
