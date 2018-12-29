@@ -3,40 +3,14 @@ layout: default
 title: Home
 ---
 
-
-
-<article class="page">
-  <h1 class="page-title">Hey there! I'm Faisal</h1>
-     <p>
-       This is a place holder for my former corporate website (2four3.com) which is now decommissioned.
-     <p>
-
-       <p>
-         You'll be able to find the work I'm doing and maybe even some random stuff about me.
-         Alot of the work I do is related to data, technology, and nerdy stuff which I like
-          :)
-       <p>
-
-         <p>
-           Click the "About" link above to learn a bit more about me
-         <p>
-
-
-</article>
-
 <div class="posts">
   {% for post in paginator.posts %}
-  <article class="post">
-    <h1 class="post-title">
+    <h3 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
-    </h1>
-
+  </h3>
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
-    {{ post.content }}
-  </article>
   {% endfor %}
 </div>
 
