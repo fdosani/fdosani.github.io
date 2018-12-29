@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications / Talks / Projects
+title: Projects / Talks/ Publications
 ---
 
 #### Open source projects
