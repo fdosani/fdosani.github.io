@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Things I'm hoping to do in 2019
+title: things I'm hoping to do in 2019
 ---
 
 So I've totally neglected doing this blog for a while now. Hoping to change
